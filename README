@@ -1,0 +1,3 @@
+The purpose of this project is add the scan/capture functionality to Alfresco, by scan/capturing Images through Scanners, Cameras and videos using video capture unit. The tool is build based on this article http://tinyurl.com/cgc984(Thank you)
+
+You may need to recompile the code
